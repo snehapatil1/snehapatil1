@@ -26,3 +26,7 @@
 <img align="left" alt="html" src="https://img.shields.io/badge/html%20-%236DB33F.svg?&style=for-the-badge&logo=html&logoColor=white" />
 <br>
 <br>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
