@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Sneha.
+# <p align="center"> Hi <img src="wave.gif" width="40" height="40" /> , I’m Sneha Patil! </p>
+
+<p align="center"> <img src="working.png" width="794" height="529" /> </p>
+
 - I am a Fullstack Software Engineer from Pune.
 - 🔭 Working on multiple backend and frontend projects using Python and Javascript.
 - 🌱 Learning design patterns in depth and Docker / Kubernetes in parallel.
@@ -7,12 +10,14 @@
 
 ## Connect with me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sneha-patil1)
+[<img align="left" alt="linked-in" src="linkedin.png" />](https://www.linkedin.com/in/sneha-patil1)
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@snehapatil1)
+[<img align="left" alt="twitter" src="twitter.png" />](https://twitter.com/Sneha_Patil1)
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Sneha_Patil1)
+[<img align="left" alt="instagram" src="instagram.png" />](https://instagram.com/snehapatil1)
 
+[<img align="left" alt="medium" src="medium.png" width="38" height="38" />](https://medium.com/@snehapatil1)
+  
 <br>
 <br>
 
@@ -27,7 +32,17 @@
 <br>
 <br>
 
-# Blog posts
+## GitHub Stats
+
+<a href="https://github.com/snehapatil1/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehapatil1&theme=cobalt" />
+</a>
+<a href="https://github.com/snehapatil1/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapatil1&layout=compact&theme=cobalt" />
+</a>
+
+
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [IKIGAI: How to live an Euphoric life](https://medium.com/@snehapatil1/ikigai-how-to-live-an-euphoric-life-a3ba2de24d34?source=rss-79ed0bf0a439------2)
 - [EAFP: Easier to Ask for Forgiveness than Permission](https://engg.elastic.run/eafp-easier-to-ask-for-forgiveness-than-permission-2db105804490?source=rss-79ed0bf0a439------2)
