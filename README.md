@@ -49,5 +49,4 @@
 - [Finding peace amidst chaos!](https://medium.com/@snehapatil1/finding-peace-amidst-chaos-f067e997e276?source=rss-79ed0bf0a439------2)
 - [The Preeminent Subconscious Mind](https://medium.com/@snehapatil1/the-preeminent-subconscious-mind-9326d89dc98c?source=rss-79ed0bf0a439------2)
 - [IKIGAI: How to live an Euphoric life](https://medium.com/@snehapatil1/ikigai-how-to-live-an-euphoric-life-a3ba2de24d34?source=rss-79ed0bf0a439------2)
-- [EAFP: Easier to Ask for Forgiveness than Permission](https://engg.elastic.run/eafp-easier-to-ask-for-forgiveness-than-permission-2db105804490)
 <!-- BLOG-POST-LIST:END -->
