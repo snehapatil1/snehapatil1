@@ -42,7 +42,7 @@
 </a>
 
 
-## Blog posts [SNEHA PATIL](https://medium.com/@snehapatil1)
+## Blog posts [Sneha Patil](https://medium.com/@snehapatil1)
 <!-- BLOG-POST-LIST:START -->
 - [Designing APIs](https://medium.com/@snehapatil1/designing-apis-cda3ff19129f?source=rss-79ed0bf0a439------2)
 - [Moving to Microservice Architecture](https://medium.com/@snehapatil1/moving-to-microservice-architecture-e159fb1502dc?source=rss-79ed0bf0a439------2)
