@@ -49,3 +49,5 @@
 - [IKIGAI: How to live an Euphoric life](https://medium.com/@snehapatil1/ikigai-how-to-live-an-euphoric-life-a3ba2de24d34?source=rss-79ed0bf0a439------2)
 - [EAFP: Easier to Ask for Forgiveness than Permission](https://engg.elastic.run/eafp-easier-to-ask-for-forgiveness-than-permission-2db105804490?source=rss-79ed0bf0a439------2)
 <!-- BLOG-POST-LIST:END -->
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@snehapatil1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@snehapatil1/0" alt="Recent Article 0"> 
