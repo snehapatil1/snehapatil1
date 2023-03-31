@@ -44,6 +44,7 @@
 
 ## Blog posts [Sneha Patil](https://medium.com/@snehapatil1)
 <!-- BLOG-POST-LIST:START -->
+- [Database Sharding: To Shard or Not to Shard?](https://medium.com/@snehapatil1/database-sharding-to-shard-or-not-to-shard-936aaa01a110)
 - [Designing APIs](https://medium.com/@snehapatil1/designing-apis-cda3ff19129f?source=rss-79ed0bf0a439------2)
 - [Moving to Microservice Architecture](https://medium.com/@snehapatil1/moving-to-microservice-architecture-e159fb1502dc?source=rss-79ed0bf0a439------2)
 - [Finding peace amidst chaos!](https://medium.com/@snehapatil1/finding-peace-amidst-chaos-f067e997e276?source=rss-79ed0bf0a439------2)
