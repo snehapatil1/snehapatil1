@@ -44,10 +44,9 @@
 
 ## Blog posts [Sneha Patil](https://medium.com/@snehapatil1)
 <!-- BLOG-POST-LIST:START -->
-- [Database Sharding: To Shard or Not to Shard?](https://medium.com/@snehapatil1/database-sharding-to-shard-or-not-to-shard-936aaa01a110)
+- [Database Sharding: To Shard or Not to Shard?](https://medium.com/@snehapatil1/database-sharding-to-shard-or-not-to-shard-936aaa01a110?source=rss-79ed0bf0a439------2)
 - [Designing APIs](https://medium.com/@snehapatil1/designing-apis-cda3ff19129f?source=rss-79ed0bf0a439------2)
 - [Moving to Microservice Architecture](https://medium.com/@snehapatil1/moving-to-microservice-architecture-e159fb1502dc?source=rss-79ed0bf0a439------2)
 - [Finding peace amidst chaos!](https://medium.com/@snehapatil1/finding-peace-amidst-chaos-f067e997e276?source=rss-79ed0bf0a439------2)
 - [The Preeminent Subconscious Mind](https://medium.com/@snehapatil1/the-preeminent-subconscious-mind-9326d89dc98c?source=rss-79ed0bf0a439------2)
-- [IKIGAI: How to live an Euphoric life](https://medium.com/@snehapatil1/ikigai-how-to-live-an-euphoric-life-a3ba2de24d34?source=rss-79ed0bf0a439------2)
 <!-- BLOG-POST-LIST:END -->
