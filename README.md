@@ -44,6 +44,7 @@
 
 ## Blog posts [Sneha Patil](https://medium.com/@snehapatil1)
 <!-- BLOG-POST-LIST:START -->
+- [Boosting Performance and Efficiency: Understanding Caching](https://medium.com/@snehapatil1/boosting-performance-and-efficiency-understanding-caching-522a8d1f0e8e)
 - [Database Sharding: To Shard or Not to Shard?](https://medium.com/@snehapatil1/database-sharding-to-shard-or-not-to-shard-936aaa01a110?source=rss-79ed0bf0a439------2)
 - [Designing APIs](https://medium.com/@snehapatil1/designing-apis-cda3ff19129f?source=rss-79ed0bf0a439------2)
 - [Moving to Microservice Architecture](https://medium.com/@snehapatil1/moving-to-microservice-architecture-e159fb1502dc?source=rss-79ed0bf0a439------2)
