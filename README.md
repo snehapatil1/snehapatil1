@@ -44,7 +44,6 @@
 
 ## Blog posts [Sneha Patil](https://medium.com/@snehapatil1)
 <!-- BLOG-POST-LIST:START -->
-- [The Mighty Mountain and the Plea for Harmony](https://medium.com/@snehapatil1/the-mighty-mountain-and-the-plea-for-harmony-35e5a6442e02)
 - [The Mighty Mountain and the Plea for Harmony](https://medium.com/@snehapatil1/the-mighty-mountain-and-the-plea-for-harmony-35e5a6442e02?source=rss-79ed0bf0a439------2)
 - [Boosting Performance and Efficiency: Understanding Caching](https://medium.com/@snehapatil1/boosting-performance-and-efficiency-understanding-caching-522a8d1f0e8e?source=rss-79ed0bf0a439------2)
 - [Database Sharding: To Shard or Not to Shard?](https://medium.com/@snehapatil1/database-sharding-to-shard-or-not-to-shard-936aaa01a110?source=rss-79ed0bf0a439------2)
