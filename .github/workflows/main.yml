@@ -12,4 +12,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/@snehapatil1"
-          github-token: ${{ secrets.GITHUB_TOKEN }}
