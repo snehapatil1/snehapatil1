@@ -54,4 +54,4 @@
 - [The Preeminent Subconscious Mind](https://medium.com/@snehapatil1/the-preeminent-subconscious-mind-9326d89dc98c)
 - [IKIGAI: How to live an Euphoric life](https://medium.com/@snehapatil1/ikigai-how-to-live-an-euphoric-life-a3ba2de24d34)
 - [EAFP: Easier to Ask for Forgiveness than Permission](https://engg.elastic.run/eafp-easier-to-ask-for-forgiveness-than-permission-2db105804490)
-- <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
