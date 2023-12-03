@@ -35,10 +35,10 @@
 ## GitHub Stats
 
 <a href="https://github.com/snehapatil1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehapatil1&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehapatil1&theme=one_dark_pro" />
 </a>
 <a href="https://github.com/snehapatil1/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapatil1&layout=compact&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapatil1&layout=compact&theme=one_dark_pro" />
 </a>
 
 
