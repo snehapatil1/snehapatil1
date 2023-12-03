@@ -41,6 +41,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapatil1&layout=compact&theme=one_dark_pro" />
 </a>
 
+<a href="https://leetcard.jacoblin.cool/snehapatil1?ext=heatmap">
+  <img align="center" src="https://leetcard.jacoblin.cool/snehapatil1?ext=heatmap" />
+</a>
+
 
 ## Blog posts [Sneha Patil](https://medium.com/@snehapatil1)
 <!-- BLOG-POST-LIST:START -->
