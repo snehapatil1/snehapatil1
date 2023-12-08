@@ -2,10 +2,11 @@
 
 <p align="center"> <img src="working.png" width="794" height="529" /> </p>
 
-- I am a Lead Fullstack Software Engineer from Pune.
+- I am a Senior Fullstack Software Developer from Pune.
 - 🔭 Working on multiple backend and frontend projects using Python and Javascript.
-- 🌱 Learning design patterns in depth and Docker / Kubernetes in parallel.
-- 👀 I’m interested in Coding, Reading, Blogging and Travelling.
+- Well versed with Microservices.
+- 🌱 Learning design patterns in depth.
+- 👀 I’m interested in Coding, Reading, Blogging, and Travelling.
 <br>
 
 ## Connect with me
