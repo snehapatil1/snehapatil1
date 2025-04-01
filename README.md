@@ -4,9 +4,9 @@
 
 - I am a Senior Software Engineer.
 - 🔭 Building multiple backend and frontend projects with varied tech stack.
-- Well versed with Microservices.
-- 🌱 Learning design patterns, software architecture, and engineering in depth.
-- 👀 I’m interested in Coding, Reading, Blogging, and Travelling.
+- Well versed with Microservices, Cloud.
+- 🌱 I believe in lifelong learning and love to deep dive in design patterns, software architecture, and engineering.
+- 👀 I love Coding, Reading, Blogging, and Travelling.
 <br>
 
 ## Connect with me
