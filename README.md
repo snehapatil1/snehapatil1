@@ -2,10 +2,10 @@
 
 <p align="center"> <img src="working.png" width="794" height="529" /> </p>
 
-- I am a Senior Fullstack Software Developer from Pune.
-- 🔭 Working on multiple backend and frontend projects using Python and Javascript.
+- I am a Senior Software Engineer.
+- 🔭 Building multiple backend and frontend projects with varied tech stack.
 - Well versed with Microservices.
-- 🌱 Learning design patterns in depth.
+- 🌱 Learning design patterns, software architecture, and engineering in depth.
 - 👀 I’m interested in Coding, Reading, Blogging, and Travelling.
 <br>
 
