@@ -1,12 +1,10 @@
 # <p align="center"> Hi <img src="wave.gif" width="40" height="40" /> , I’m Sneha Patil! </p>
 
-<p align="center"> <img src="working.png" width="794" height="529" /> </p>
-
-- I am a Senior Software Engineer.
-- 🔭 Building multiple backend and frontend projects with varied tech stack.
-- Well versed with Microservices, Cloud.
-- 🌱 I believe in lifelong learning and love to deep dive in design patterns, software architecture, and engineering.
-- 👀 I love Coding, Reading, Blogging, and Travelling.
+- I am a Senior Software Engineer with over 8 years of experience.
+- Building multiple backend and frontend projects with varied tech stack.
+- Well versed with Microservices, Cloud, APIs.
+- I believe in lifelong learning and love to deep dive in design patterns, software architecture, and engineering.
+- I love Coding, Reading, Blogging, and Travelling.
 <br>
 
 ## Connect with me
