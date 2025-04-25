@@ -20,30 +20,6 @@
 <br>
 <br>
 
-## Expertise
-
-<img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-%23232F3E?logo=mysql&logoColor=white&style=for-the-badge" />
-<img align="left" alt="erp" src="https://img.shields.io/badge/erp-%23316192.svg?&style=for-the-badge&logo=erp&logoColor=white" />
-<img align="left" alt="frappe" src="https://img.shields.io/badge/frappe-3DDC84?logo=frappe&logoColor=white&style=for-the-badge" />
-<img align="left" alt="html" src="https://img.shields.io/badge/html%20-%236DB33F.svg?&style=for-the-badge&logo=html&logoColor=white" />
-<br>
-<br>
-
-## GitHub Stats
-
-<a href="https://github.com/snehapatil1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehapatil1&theme=one_dark_pro" />
-</a>
-<a href="https://github.com/snehapatil1/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapatil1&layout=compact&theme=one_dark_pro" />
-</a>
-
-<a href="https://leetcard.jacoblin.cool/snehapatil1?ext=heatmap">
-  <img align="center" src="https://leetcard.jacoblin.cool/snehapatil1?ext=heatmap" />
-</a>
-
 
 ## Blog posts [Sneha Patil](https://medium.com/@snehapatil1)
 <!-- BLOG-POST-LIST:START -->
