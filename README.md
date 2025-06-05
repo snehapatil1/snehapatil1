@@ -23,6 +23,7 @@
 
 ## Blog posts [Sneha Patil](https://medium.com/@snehapatil1)
 <!-- BLOG-POST-LIST:START -->
+- [Quantum vs. Classical Computing: What’s the Big Deal?](https://medium.com/@snehapatil1/quantum-vs-classical-computing-whats-the-big-deal-05aa0b09be0c)
 - [Role of Observability and Monitoring in Modern Software](https://medium.com/@snehapatil1/role-of-observability-and-monitoring-in-modern-software-6aa5d1b718b5?source=rss-79ed0bf0a439------2)
 - [The Mighty Mountain and the Plea for Harmony](https://medium.com/@snehapatil1/the-mighty-mountain-and-the-plea-for-harmony-35e5a6442e02?source=rss-79ed0bf0a439------2)
 - [Boosting Performance and Efficiency: Understanding Caching](https://medium.com/@snehapatil1/boosting-performance-and-efficiency-understanding-caching-522a8d1f0e8e?source=rss-79ed0bf0a439------2)
